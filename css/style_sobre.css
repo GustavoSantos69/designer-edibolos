@@ -2,6 +2,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Merriweather&family=Yantramanav:wght@500&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
 
+
+
 /*Estilos para telas menores que 768 pixels */
 @media (max-width: 480px) {
   .imagem-de-fundo {

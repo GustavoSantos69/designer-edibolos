@@ -2,6 +2,26 @@
 @import url('https://fonts.googleapis.com/css2?family=Merriweather&family=Yantramanav:wght@500&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
 
+
+
+
+.font-ti-bolo{ /*Estilo do titúlo dos bolos*/
+  font-family:'Pacifico','cursive','Arial';
+  font-weight: 500; 
+  color: #51B07C;
+  font-size: 18px;
+  display: flex;
+  justify-content: center;
+}
+
+.font-te-bolo{ /*Estilo do texto dos bolos*/
+  font-family: 'Yantramanav', 'Arial Narrow','Arial';
+  color: #212529;
+
+}
+
+
+
 .fonte-zero{ /*Style para identificação dos elementos da página.*/
   font-size: 0px;
   padding: 0px;
